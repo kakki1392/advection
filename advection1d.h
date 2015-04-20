@@ -1,5 +1,5 @@
-#ifndef ADVECTION1d_H
-#define ADVECTION1d_H
+#ifndef ADVECTION1D_H
+#define ADVECTION1D_H
 #include <armadillo>
 #include "gnuplotting.h"
 

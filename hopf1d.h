@@ -1,5 +1,5 @@
-#ifndef HOPF1d_H
-#define HOPF1d_H
+#ifndef HOPF1D_H
+#define HOPF1D_H
 #include <armadillo>
 #include "gnuplotting.h"
 
